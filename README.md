@@ -1,3 +1,9 @@
+
+  Hi ﾚ乇の!
+
+
+
+  
   <p align="center">
   <img src="./assets/cover-thompson.png" height="200" class="tib-load">
   <hr>
