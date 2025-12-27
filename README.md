@@ -1,10 +1,4 @@
-
-  <h1> Hi, ﾚ乇の! </h1>
-
-
-
-  
-  <p align="center">
+    <p align="center">
   <img src="./assets/cover-thompson.png" height="200" class="tib-load">
   <hr>
 </p>
