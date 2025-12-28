@@ -1,5 +1,3 @@
-<h1>Hi †JesusisMyGod† </h1>
-
 
 
 <p align="center">
